@@ -46,7 +46,7 @@ To set up the bot locally, follow these steps:
 ![image](https://github.com/user-attachments/assets/7a057369-2af2-4999-924c-9555d9b69e39)
 
 
-##Important links
+##Important links  
 https://pypi.org/project/langchain/  
 https://medium.com/@ypredofficial/faiss-vector-database-be3a9725172f  
 https://www.youtube.com/watch?v=f1vJmgMDeUU
