@@ -39,8 +39,12 @@ To set up the bot locally, follow these steps:
 ## Run the application
 
 1. Go to the Application folder
-2. Run "python ingest.py" - This will create a vector store on the "Application/vectorstore/db_faiss" this directory will contain index.faiss and index.pkl file
-3. Open the terminal and then run "streamlit run main.py" This will open the streamlit app on a web browser.
+2. Run "python ingest.py" - This will create a vector store on the "Ayurvedic_Home_Remedies_Bot/vectorstore/db_faiss" This directory will contain index.faiss and index.pkl file
+3. Open the terminal and then run "streamlit run Application/main.py" This will open the streamlit app on a web browser.
+
+## Please refer below image of Streamlit Application
+![Uploading image.png…]()
+
    
 
      
