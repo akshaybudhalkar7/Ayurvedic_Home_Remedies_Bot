@@ -9,7 +9,7 @@ from langchain_community.vectorstores import FAISS
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
 
 working_dir = os.path.dirname(os.path.abspath(__file__))
-DB_FAISS_PATH = "Application/vectorstore/db_faiss"
+DB_FAISS_PATH = "vectorstore/db_faiss"
 
 
 llm = Ollama(
