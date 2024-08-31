@@ -9,3 +9,34 @@ This project is a chatbot designed to provide users with Ayurvedic home remedies
 - **Integration with Platforms**: Can be integrated into different platforms like websites, messaging apps, etc.
 - **Personalized Advice**: Offers personalized suggestions based on user input.
 - **Educational Content**: Provides information about Ayurveda and the benefits of natural remedies.
+
+
+## Installation
+
+To set up the bot locally, follow these steps:
+
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/akshaybudhalkar7/Ayurvedic_Home_Remedies_Bot.git
+   cd Ayurvedic_Home_Remedies_Bot
+   ```
+
+2. **Install the required dependencies:**
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Download Ollama on a Local Machine**
+  Download Ollama from the below URL
+  https://ollama.com/
+
+4. **Install Ollama application**
+
+5. **Download the LLM model from Ollama**
+     Go to cmd
+     run the command "Ollama run "gemma2:2b"
+
+     
+     
+
+
