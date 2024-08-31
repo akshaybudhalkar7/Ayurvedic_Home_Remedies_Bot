@@ -43,7 +43,8 @@ To set up the bot locally, follow these steps:
 3. Open the terminal and then run "streamlit run Application/main.py" This will open the streamlit app on a web browser.
 
 ## Please refer below image of Streamlit Application
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/7a057369-2af2-4999-924c-9555d9b69e39)
+
 
    
 
